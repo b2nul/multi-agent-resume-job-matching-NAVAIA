@@ -1,0 +1,4 @@
+.env
+body.json
+__pycache__/
+*.pyc
